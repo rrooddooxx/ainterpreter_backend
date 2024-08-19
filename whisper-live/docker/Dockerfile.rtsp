@@ -1,0 +1,9 @@
+FROM bluenviron/mediamtx:latest
+
+# Set environment variables
+ENV MTX_PROTOCOLS=tcp \
+    MTX_WEBRTCADDITIONALHOSTS=192.168.x.x
+
+EXPOSE 8554 1935 8888 8889 8890/udp 8189/udp
+
+CMD ["mediamtx"]
