@@ -122,6 +122,7 @@ class Client:
         text = text[-3:]
         utils.clear_screen()
         utils.print_transcript(text)
+        utils.send_to_ws(text)
 
     def on_message(self, ws, message):
         """

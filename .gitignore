@@ -1,3 +1,5 @@
 .DS_Store
 projEnv
 venv
+node_modules
+output_audio.wav

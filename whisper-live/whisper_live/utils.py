@@ -3,7 +3,10 @@ import textwrap
 import scipy
 import ffmpeg
 import numpy as np
+import socketio
 
+sio = socketio.SimpleClient()
+sio.connect("http://localhost:3000")
 
 def clear_screen():
     """Clears the console screen."""
@@ -16,6 +19,11 @@ def print_transcript(text):
     for line in wrapper.wrap(text="".join(text)):
         print(line)
 
+def send_to_ws(text):
+    """Send text to the websocket server."""
+    wrapper = textwrap.TextWrapper(width=60)
+    for line in wrapper.wrap(text="".join(text)):
+        sio.emit("transcription", line)
 
 def format_time(s):
     """Convert seconds (float) to SRT time format."""
