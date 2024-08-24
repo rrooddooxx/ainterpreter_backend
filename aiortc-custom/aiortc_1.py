@@ -11,6 +11,7 @@ import fractions
 import cv2
 import wave
 import numpy as np
+import aiohttp_cors
 from asyncio import Queue
 from aiohttp import web
 from aiortc import MediaStreamTrack, RTCPeerConnection, RTCSessionDescription
@@ -245,9 +246,28 @@ if __name__ == "__main__":
 
     app = web.Application()
     app.on_shutdown.append(on_shutdown)
-    app.router.add_get("/", index)
-    app.router.add_get("/client.js", javascript)
-    app.router.add_post("/offer", offer)
+
+
+
+    cors = aiohttp_cors.setup(app, defaults={
+        "*": aiohttp_cors.ResourceOptions(
+                allow_credentials=True,
+                expose_headers="*",
+                allow_headers="*",
+            )
+    })
+
+    # Add all resources to `CorsConfig`.
+    # Add CORS to routes
+    index_route = app.router.add_get("/", index)
+    javascript_route = app.router.add_get("/client.js", javascript)
+    offer_route = app.router.add_post("/offer", offer)
+    
+    # Apply CORS to each route
+    cors.add(index_route)
+    cors.add(javascript_route)
+    cors.add(offer_route)
+
     web.run_app(
         app, access_log=None, host=args.host, port=args.port, ssl_context=ssl_context
     )
