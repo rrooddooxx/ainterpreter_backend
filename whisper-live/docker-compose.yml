@@ -8,18 +8,25 @@ services:
     volumes:
       - .:/app  # Mounts the current directory to /app inside the container, adjust if needed
     restart: always  # Ensures the service restarts if it crashes
-  rtsp-server:
+  rtsp-server-speaker1:
     image: bluenviron/mediamtx:latest
     build:
       context: .
+    volumes:
+      - /Users/sebastiankravetz/Dev/Projects/AInterpreter_Hackathon/backend/whisper-live/speakerone.yml:/mediamtx.yml
     environment:
       - MTX_PROTOCOLS=tcp
-      - MTX_WEBRTCADDITIONALHOSTS="192.168.x.x"
     ports:
       - "8554:8554"
-      - "1935:1935"
+    restart: always
+  rtsp-server-speaker2:
+    image: bluenviron/mediamtx:latest
+    build:
+      context: .
+    volumes:
+      - /Users/sebastiankravetz/Dev/Projects/AInterpreter_Hackathon/backend/whisper-live/speakertwo.yml:/mediamtx.yml
+    environment:
+      - MTX_PROTOCOLS=tcp
+    ports:
       - "8888:8888"
-      - "8889:8889"
-      - "8890:8890/udp"
-      - "8189:8189/udp"
     restart: always
