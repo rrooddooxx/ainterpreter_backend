@@ -33,7 +33,7 @@ services:
     build:
       context: .
     volumes:
-      - ./speakerone.yml:/mediamtx.yml
+      - ./speakertwo.yml:/mediamtx.yml
     environment:
       - MTX_PROTOCOLS=tcp
     ports:

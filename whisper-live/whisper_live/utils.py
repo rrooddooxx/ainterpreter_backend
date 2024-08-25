@@ -7,6 +7,7 @@ import socketio
 
 sio = socketio.SimpleClient()
 sio.connect("http://localhost:3000")
+last_sent_msg = ""
 
 def clear_screen():
     """Clears the console screen."""
@@ -21,9 +22,13 @@ def print_transcript(text):
 
 def send_to_ws(text):
     """Send text to the websocket server."""
+    global last_sent_msg
     wrapper = textwrap.TextWrapper(width=60)
     for line in wrapper.wrap(text="".join(text)):
-        sio.emit("transcription", line)
+        if line != last_sent_msg:
+            print(f"Sending line to WS: {line}")  # Debug log
+            sio.emit("transcription", line)
+            last_sent_msg = line
 
 def format_time(s):
     """Convert seconds (float) to SRT time format."""

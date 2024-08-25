@@ -1,1 +1,1 @@
-python aiortc_2.py --host 10.66.32.139 --port 8081  --cert-file server.crt --key-file server.key
+python aiortc_2.py --host 192.168.0.7 --port 8081  --cert-file server.crt --key-file server.key

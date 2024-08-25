@@ -1,24 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "ws-backend",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "pony-v",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^4.19.2",
-    "socket.io": "^4.7.5",
-    "socket.io-client": "^4.7.5",
-    "ws": "^8.18.0"
-  }
-}
-=======
     "name": "ws-backend",
     "version": "1.0.0",
     "main": "index.js",
@@ -37,4 +17,3 @@
       "ws": "^8.18.0"
     }
   }
->>>>>>> dfc3b9840efbb9eb183539b8ed3c9cbb5fdd96c8

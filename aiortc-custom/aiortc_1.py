@@ -68,20 +68,18 @@ def start_ffmpeg_process():
     global ffmpeg_process
     ffmpeg_command = [
         'ffmpeg',
-        '-re',
         '-y',  # overwrite output files
+        '-re',
         '-f', 's16le',  # input format for audio
         '-ac', '2',  # number of audio channels
         '-ar', '48000',  # sample rate
         '-i', '-',  # audio input from stdin
-        '-bufsize', '4096k',  # Increase buffer size
+        '-bufsize', '512k',  # Increase buffer size
         '-c:a', 'aac',  # audio codec
-        '-b:a', '128k',  # set audio bitrate
+        '-b:a', '64k',  # set audio bitrate
         '-f', 'rtsp',  # output format
         '-rtsp_transport', 'tcp',  # Specify RTSP transport protocol (TCP)
         'rtsp://localhost:8554/test',  # RTSP server URL
-        '-f', 'wav',  # specify output format for the file
-        'output_audio.wav'  # path to save the audio (for debugging)
     ]
 
     ffmpeg_process = subprocess.Popen(ffmpeg_command, stdin=subprocess.PIPE)

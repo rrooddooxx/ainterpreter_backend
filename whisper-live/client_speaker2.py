@@ -4,13 +4,12 @@ print("CLIENTE #2")
 
 client = TranscriptionClient(
   "localhost",
-  9090,
+  9091,
   lang="es",
   translate=False,
   model="tiny",
-  use_vad=True,
-  save_output_recording=False,                         # Only used for microphone input, False by Default
-  output_recording_filename="./output_recording.wav"  # Only used for microphone input
+  use_vad=False,
+  save_output_recording=False
 )
 
-client(rtsp_url="rtsp://localhost:8555/test")
+client(rtsp_url="rtsp://localhost:8888/test")

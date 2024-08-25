@@ -24,4 +24,4 @@ COPY whisper_live /app/whisper_live
 COPY run_server.py /app
 
 ENTRYPOINT ["python", "run_server.py"]
-CMD ["--port","9091"]
+CMD ["--port","9091","--omp_num_threads", "8"] 
