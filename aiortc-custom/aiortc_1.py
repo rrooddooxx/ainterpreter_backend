@@ -142,7 +142,6 @@ async def offer(request):
         log_info("ICE connection state is %s", pc.iceConnectionState)
         if pc.iceConnectionState == "closed" or pc.iceConnectionState == "disconnected":
             log_info("ICE connection state is %s, attempting to restart ICE", pc.iceConnectionState)
-            await pc.on()
 
     @pc.on("track")
     def on_track(track):

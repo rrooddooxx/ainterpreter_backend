@@ -1,0 +1,19 @@
+services:
+  aiortc-client1:
+    build:
+      context: .
+      dockerfile: Dockerfile.cl1
+    ports:
+      - "8080:8080"  
+    volumes:
+      - .:/app  
+    restart: always  
+  aiortc-client2:
+    build:
+      context: .
+      dockerfile: Dockerfile.cl2
+    ports:
+      - "8081:8081"  
+    volumes:
+      - .:/app  
+    restart: always  
