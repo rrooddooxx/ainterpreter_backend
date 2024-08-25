@@ -1,36 +1,272 @@
 1
-00:00:03,072 --> 00:00:12,311
- Bueno, fuimos con un único campo y fulvio, como cuando salimos de Puerto Medio, el año
+00:00:01,024 --> 00:00:03,343
+ de la aisle,
 
 2
-00:00:12,311 --> 00:00:19,312
- antes de entrar, o sea, estábamos en las vacaciones, antes de entrar a la UPO, habíamos salido justo al cuarto, habíamos vuelto a ir al viaje, estudiamos...
+00:00:03,343 --> 00:00:07,144
+ de la noche de las zapas
 
 3
-00:00:19,312 --> 00:00:22,312
- Estaban ahí, estaban, bueno, al máximo.
+00:00:07,144 --> 00:00:10,304
+ de las piernas que los hecha,
 
 4
-00:00:22,312 --> 00:00:23,312
- Ajá.
+00:00:10,304 --> 00:00:13,064
+ luego la noche de la aisle,
 
 5
-00:00:23,312 --> 00:00:26,312
- Pero así, ya. Viviendo un momento.
+00:00:13,064 --> 00:00:15,064
+ ¿Toy?
 
 6
-00:00:30,000 --> 00:00:38,359
- así que, bueno fuimos y tocó una banda Emo, me acuerdo que tocó una banda Emo es la como de
+00:00:17,064 --> 00:00:19,064
+ ¿Esta?
 
 7
-00:02:30,000 --> 00:02:32,479
- que los locos parecen que se habían barcado una mina
+00:00:21,064 --> 00:00:24,463
+ Lo que me dio, lo que me hizo es que se ve.
 
 8
-00:03:00,599 --> 00:03:06,840
- Y la gente, la gente ahí lo querían hacer eso, igual le estaban así y ya y como que
+00:00:24,463 --> 00:00:25,344
+ No, no, no.
 
 9
-00:03:06,840 --> 00:03:16,680
- nada, igual esa tocata la habían organizado, los guanes del wonder, eran de hecho.
+00:00:25,344 --> 00:00:27,344
+ no se está contando, no se va
+
+10
+00:01:20,504 --> 00:01:22,504
+ y no está pasando un...
+
+11
+00:01:30,000 --> 00:01:32,000
+ no lo han.
+
+12
+00:01:34,000 --> 00:01:37,000
+ ¿Vos perlove esto acá en Judil? ¿Seto?
+
+13
+00:01:37,000 --> 00:01:39,000
+ ¿Pero esto? ¿Vo de favor?
+
+14
+00:01:39,000 --> 00:01:41,000
+ ¿Cómo se ve? ¿Cómo se ve?
+
+15
+00:01:41,000 --> 00:01:43,000
+ ¿Cómo se ve?
+
+16
+00:01:43,000 --> 00:01:55,000
+ ¿Por qué la dirección es?
+
+17
+00:01:55,000 --> 00:02:00,000
+ es doble vez, es cierto, pero topo lo doble vez, es así
+
+18
+00:02:00,000 --> 00:02:01,000
+ ¡No!
+
+19
+00:02:04,000 --> 00:02:05,000
+ ¡Sí!
+
+20
+00:02:05,000 --> 00:02:06,000
+ ¡No!
+
+21
+00:02:07,000 --> 00:02:09,000
+ ¡No veo!
+
+22
+00:02:09,000 --> 00:02:11,000
+ Este es el otro.
+
+23
+00:02:11,000 --> 00:02:14,000
+ ¿Aganchando tu reis?
+
+24
+00:02:14,000 --> 00:02:19,000
+ de este mandando, ¿eh?
+
+25
+00:02:21,000 --> 00:02:27,000
+ ¿Cómo?
+
+26
+00:02:27,000 --> 00:02:32,520
+ en el 2 de estado corriendo pero iría me refiero a en el que en el servidor
+
+27
+00:02:32,520 --> 00:02:34,840
+ para que te así deca.
+
+28
+00:02:34,919 --> 00:02:37,099
+ Puy a ver spheres.
+
+29
+00:02:37,139 --> 00:02:39,120
+ Joé.
+
+30
+00:02:39,120 --> 00:02:42,219
+ Zwendere laвет media.
+
+31
+00:02:42,280 --> 00:02:43,460
+ played a Jesse.
+
+32
+00:02:43,460 --> 00:02:49,460
+ Y el chento, chento, chento, chenta.
+
+33
+00:02:49,460 --> 00:02:52,460
+ Y el chento, chenta.
+
+34
+00:02:52,460 --> 00:02:54,460
+ es el chenta chenta
+
+35
+00:03:21,592 --> 00:03:23,592
+ ¿Qué es?
+
+36
+00:03:25,592 --> 00:03:27,592
+ que no hay un poco de agua, pues...
+
+37
+00:03:30,231 --> 00:03:31,231
+ ¿Una iser?
+
+38
+00:03:31,231 --> 00:03:35,231
+ Sí, que no sé lo estamos trabajando con diagrama de frujo más técnico todavía.
+
+39
+00:03:35,231 --> 00:03:39,231
+ Podríamos, yo mostraría, eso es verdad, más que algo como en la técnica.
+
+40
+00:03:39,231 --> 00:03:43,231
+ Está bien, está bien, así, olo.
+
+41
+00:03:43,231 --> 00:03:45,231
+ ¿Qué es mi amor?
+
+42
+00:04:33,528 --> 00:04:37,127
+ ¿En qué tipo estuve y lo de guapzó que tuve?
+
+43
+00:04:37,127 --> 00:04:38,327
+ ¿Qué cosa?
+
+44
+00:04:38,327 --> 00:04:49,327
+ del server.py, el o de el envío, el server, el que muestra la cual la consola, creo que lo queremos
+
+45
+00:04:49,327 --> 00:04:51,327
+ ¿Cómo en la cual el web sócate donde?
+
+46
+00:04:56,327 --> 00:04:59,327
+ Sí, pero no sé si tengo el sócate, no estoy llegando, no quiero buscarlo.
+
+47
+00:04:59,327 --> 00:05:08,528
+ No, no sé, pero de dónde lo manda el server, que parte lo manda el server, ¿verdad?
+
+48
+00:05:08,528 --> 00:05:10,528
+ ¡Dueltísima, ¿no?
+
+49
+00:05:10,528 --> 00:05:11,528
+ ¿Dueltísima, ¿no?
+
+50
+00:05:12,528 --> 00:05:13,528
+ ¿No?
+
+51
+00:05:13,528 --> 00:05:15,528
+ que lo voy a arruar.
+
+52
+00:05:15,528 --> 00:05:17,528
+ A ver la versión que tenéis tú.
+
+53
+00:05:17,528 --> 00:05:18,528
+ Saberá aquí en la escala.
+
+54
+00:05:18,528 --> 00:05:20,528
+ ¿A ver la versión que tenéis tú?
+
+55
+00:05:20,528 --> 00:05:21,528
+ ¿Sue vera aquí en la escala?
+
+56
+00:05:21,528 --> 00:05:23,528
+ ¿Equí no está muy bueno?
+
+57
+00:05:23,528 --> 00:05:25,528
+ Aquí no estamos, ¿verdad?
+
+58
+00:05:25,528 --> 00:05:29,528
+ ¡Ay el método me la va sento ya!
+
+59
+00:05:30,000 --> 00:05:43,000
+ Ah, tú le tenías y no trapea más, ¿no?
+
+60
+00:05:43,000 --> 00:05:45,000
+ donde lo tení tú?
+
+61
+00:05:45,000 --> 00:05:49,000
+ No, pero en el repo de Vaca.
+
+62
+00:05:49,000 --> 00:05:53,000
+ Que se llama WebSocketBacain.
+
+63
+00:05:53,000 --> 00:05:55,000
+ Ah, ya, entonces.
+
+64
+00:06:00,000 --> 00:06:02,000
+ ¿Cómo es un chenco?
+
+65
+00:06:03,000 --> 00:06:06,000
+ ¿Vamos a contar a 5 o 5?
+
+66
+00:06:06,000 --> 00:06:08,000
+ ¿Vamos a usarlo?
+
+67
+00:06:08,000 --> 00:06:10,000
+ Eh, me salgue.
+
+68
+00:06:10,000 --> 00:06:12,000
+ No sé por la madre, alba.
 

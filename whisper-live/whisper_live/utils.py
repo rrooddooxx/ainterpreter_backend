@@ -33,7 +33,6 @@ def create_srt_file(segments, output_file):
             start_time = format_time(float(segment['start']))
             end_time = format_time(float(segment['end']))
             text = segment['text']
-
             srt_file.write(f"{segment_number}\n")
             srt_file.write(f"{start_time} --> {end_time}\n")
             srt_file.write(f"{text}\n\n")

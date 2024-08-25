@@ -1,1 +1,8 @@
 .DS_Store
+/venv
+*/venv/*
+*/venv2/*
+*/node_modules
+
+
+aiortc-custom/output_audio.wav
