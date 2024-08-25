@@ -1,4 +1,104 @@
 1
+<<<<<<< HEAD
+00:00:02,048 --> 00:00:04,647
+ Porque te cortaste...
+
+2
+00:00:04,647 --> 00:00:06,647
+ no te cortes
+
+3
+00:00:06,647 --> 00:00:11,647
+ ¡Nate carpe! ¡Ay, sí!
+
+4
+00:00:11,647 --> 00:00:13,647
+ ¡Muy!
+
+5
+00:00:13,647 --> 00:00:14,647
+ ¡Ehh!
+
+6
+00:00:14,647 --> 00:00:15,647
+ Ya.
+
+7
+00:00:15,647 --> 00:00:16,647
+ Voy a que no.
+
+8
+00:00:17,647 --> 00:00:18,175
+ No.
+
+9
+00:00:18,175 --> 00:00:20,175
+ que te costas.
+
+10
+00:00:20,175 --> 00:00:22,175
+ ¿Vara tu y Andolea es muy?
+
+11
+00:00:22,175 --> 00:00:24,175
+ Y si, parece que es esta como...
+
+12
+00:00:24,175 --> 00:00:29,495
+ están escribiendo. Pero se tanquigue como lo he dicho. No, no, no.
+
+13
+00:00:29,495 --> 00:00:31,175
+ No, no, no, no.
+
+14
+00:00:31,175 --> 00:00:34,015
+ y se... no, no, no, no, no.
+
+15
+00:00:36,655 --> 00:00:38,015
+ Dale, un uno.
+
+16
+00:00:39,176 --> 00:00:41,375
+ ¡Var a tu y Andole es muy!
+
+17
+00:00:41,375 --> 00:00:46,936
+ dole es muy, y sí parece que es esta como están escribiendo, pero será inscribido
+
+18
+00:00:46,936 --> 00:00:50,695
+ Como no ha ditin, no tengo lo ya.
+
+19
+00:00:53,816 --> 00:00:55,576
+ No, no, no, no, no, no, no, no.
+
+20
+00:00:55,576 --> 00:00:56,095
+ No, no, no, no, no.
+
+21
+00:00:56,095 --> 00:00:56,936
+ No, no, no.
+
+22
+00:00:56,936 --> 00:00:59,335
+ que te hablan de manomía.
+
+23
+00:00:59,335 --> 00:01:09,120
+ ¿Qué estás hablando?
+
+24
+00:01:16,287 --> 00:01:22,688
+ Estas transquiviendo muy mal.
+
+25
+00:01:30,000 --> 00:01:44,079
+ transcribiendo.
+=======
 00:00:01,024 --> 00:00:03,343
  de la aisle,
 
@@ -269,4 +369,5 @@
 68
 00:06:10,000 --> 00:06:12,000
  No sé por la madre, alba.
+>>>>>>> dfc3b9840efbb9eb183539b8ed3c9cbb5fdd96c8
 

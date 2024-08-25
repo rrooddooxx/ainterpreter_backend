@@ -1,8 +1,14 @@
 .DS_Store
+venv
+node_modules
+output_audio.wav
 /venv
-*/venv/*
+**/venv/*
 */venv2/*
 */node_modules
 
 
 aiortc-custom/output_audio.wav
+whisper-live/venv/**
+whisper-live/venv/*
+whisper-live/venv/

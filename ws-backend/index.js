@@ -28,4 +28,8 @@ io.on('connection', (socket) => {
 const PORT = 3000;
 server.listen(PORT, () => {
   console.log(`Servidor escuchando en http://localhost:${PORT}`);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> dfc3b9840efbb9eb183539b8ed3c9cbb5fdd96c8
