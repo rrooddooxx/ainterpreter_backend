@@ -2,7 +2,7 @@ services:
   whisper-server1:
     build:
       context: .
-      dockerfile: Dockerfile.gpu
+      dockerfile: Dockerfile.srv1
     ports:
       - "9090:9090"  # Replace with the actual port your application is running on
     volumes:
@@ -11,7 +11,7 @@ services:
   whisper-server2:
     build:
       context: .
-      dockerfile: Dockerfile.gpu
+      dockerfile: Dockerfile.srv2
     ports:
       - "9091:9091"  # Replace with the actual port your application is running on
     volumes:
@@ -22,7 +22,7 @@ services:
     build:
       context: .
     volumes:
-      - /Users/openaloza/Desktop/ainterpreter_backend/whisper-live/speakerone.yml:/mediamtx.yml
+      - ./speakerone.yml:/mediamtx.yml
     environment:
       - MTX_PROTOCOLS=tcp
     ports:
@@ -33,7 +33,7 @@ services:
     build:
       context: .
     volumes:
-      - /Users/openaloza/Desktop/ainterpreter_backend/whisper-live/speakertwo.yml:/mediamtx.yml
+      - ./speakerone.yml:/mediamtx.yml
     environment:
       - MTX_PROTOCOLS=tcp
     ports:

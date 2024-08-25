@@ -1,4 +1,4 @@
-#!/Users/sebastiankravetz/Dev/Projects/AInterpreter_Hackathon/backend/WhisperLiveServer/venv/bin/python3.12
+#!/Users/sebastiankravetz/Dev/Projects/AInterpreter_Hackathon/backend/whisper-live/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
