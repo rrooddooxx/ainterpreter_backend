@@ -1,4 +1,6 @@
-# ainterpreter_backend
+# HeyAru Backend
+> Entorno Backend para proyecto "HeyAru"
+> AIHackathon 2024. Equipo #311
 
 ## Servidor Live Whisper + Servidor RTSP
 
