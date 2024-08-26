@@ -1,7 +1,7 @@
 # HeyAru Backend
 > Entorno Backend para proyecto "HeyAru"
 > 
-> AIHackathon 2024. Equipo #311
+> AI Hackathon 2024, Chile. Equipo #311
 
 ## Servidor Live Whisper + Servidor RTSP
 
